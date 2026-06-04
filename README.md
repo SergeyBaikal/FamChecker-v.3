@@ -10,7 +10,8 @@
 - **Левая панель** — поле для ввода названий семейств
 - **Центральная панель** — таблица с результатами определения
 - **Правая панель** — список семейств, отсутствующих в базе данных
-  <img width="1915" height="1041" alt="1" src="https://github.com/user-attachments/assets/4b345ea5-fee5-430f-a63e-580dfdb6a17b" />
+<img width="1127" height="449" alt="1" src="https://github.com/user-attachments/assets/d20a5f8d-c4b4-41d2-b8c2-e4305545eb8b" />
+
 
 
 ### 2. Импорт данных из Virus Metadata Resource (VMR)
